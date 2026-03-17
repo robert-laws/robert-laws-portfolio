@@ -1,5 +1,7 @@
 # Robert Laws Portfolio
 
+[![GitHub Pages](https://img.shields.io/website?url=https%3A%2F%2Frobert-laws.github.io%2Frobert-laws-portfolio%2F&up_message=deployed&down_message=down&label=github%20pages)](https://robert-laws.github.io/robert-laws-portfolio/)
+
 Single-page professional portfolio for Robert Laws, built for fast GitHub Pages deployment with:
 
 - HTML5
@@ -13,6 +15,10 @@ Single-page professional portfolio for Robert Laws, built for fast GitHub Pages 
 - `script.js` - navigation, dark mode, reveal animations, and mailto form behavior
 - `resume.pdf` - downloadable resume
 - `.gitignore` - basic local exclusions
+
+## Live Site
+
+[View the hosted portfolio on GitHub Pages](https://robert-laws.github.io/robert-laws-portfolio/)
 
 ## Local Preview
 
